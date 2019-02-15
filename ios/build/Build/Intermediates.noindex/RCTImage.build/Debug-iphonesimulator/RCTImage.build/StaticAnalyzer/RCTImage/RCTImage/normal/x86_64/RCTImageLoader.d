@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/node_modules/react-native/Libraries/Image/RCTImageLoader.m \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Users/lemaivietanh/reactNativeProject/groupChatAppWithFirebase/node_modules/react-native/Libraries/Image/RCTImageUtils.h
